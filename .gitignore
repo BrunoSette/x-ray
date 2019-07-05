@@ -1,0 +1,11 @@
+node_modules
+npm-debug.log
+.DS_Store
+examples/_*
+examples/*.json
+coverage
+.idea
+travis-phantomjs
+.vscode/launch.json
+package-lock.json
+.env

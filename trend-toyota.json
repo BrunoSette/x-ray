@@ -1,0 +1,1043 @@
+[
+  {
+    "time": "1483228800",
+    "formattedTime": "1 – 7 de jan de 2017",
+    "formattedAxisTime": "1 de jan de 2017",
+    "value": [18],
+    "hasData": [true],
+    "formattedValue": ["18"]
+  },
+  {
+    "time": "1483833600",
+    "formattedTime": "8 – 14 de jan de 2017",
+    "formattedAxisTime": "8 de jan de 2017",
+    "value": [20],
+    "hasData": [true],
+    "formattedValue": ["20"]
+  },
+  {
+    "time": "1484438400",
+    "formattedTime": "15 – 21 de jan de 2017",
+    "formattedAxisTime": "15 de jan de 2017",
+    "value": [14],
+    "hasData": [true],
+    "formattedValue": ["14"]
+  },
+  {
+    "time": "1485043200",
+    "formattedTime": "22 – 28 de jan de 2017",
+    "formattedAxisTime": "22 de jan de 2017",
+    "value": [31],
+    "hasData": [true],
+    "formattedValue": ["31"]
+  },
+  {
+    "time": "1485648000",
+    "formattedTime": "29 de jan – 4 de fev de 2017",
+    "formattedAxisTime": "29 de jan de 2017",
+    "value": [36],
+    "hasData": [true],
+    "formattedValue": ["36"]
+  },
+  {
+    "time": "1486252800",
+    "formattedTime": "5 – 11 de fev de 2017",
+    "formattedAxisTime": "5 de fev de 2017",
+    "value": [33],
+    "hasData": [true],
+    "formattedValue": ["33"]
+  },
+  {
+    "time": "1486857600",
+    "formattedTime": "12 – 18 de fev de 2017",
+    "formattedAxisTime": "12 de fev de 2017",
+    "value": [26],
+    "hasData": [true],
+    "formattedValue": ["26"]
+  },
+  {
+    "time": "1487462400",
+    "formattedTime": "19 – 25 de fev de 2017",
+    "formattedAxisTime": "19 de fev de 2017",
+    "value": [21],
+    "hasData": [true],
+    "formattedValue": ["21"]
+  },
+  {
+    "time": "1488067200",
+    "formattedTime": "26 de fev – 4 de mar de 2017",
+    "formattedAxisTime": "26 de fev de 2017",
+    "value": [9],
+    "hasData": [true],
+    "formattedValue": ["9"]
+  },
+  {
+    "time": "1488672000",
+    "formattedTime": "5 – 11 de mar de 2017",
+    "formattedAxisTime": "5 de mar de 2017",
+    "value": [21],
+    "hasData": [true],
+    "formattedValue": ["21"]
+  },
+  {
+    "time": "1489276800",
+    "formattedTime": "12 – 18 de mar de 2017",
+    "formattedAxisTime": "12 de mar de 2017",
+    "value": [34],
+    "hasData": [true],
+    "formattedValue": ["34"]
+  },
+  {
+    "time": "1489881600",
+    "formattedTime": "19 – 25 de mar de 2017",
+    "formattedAxisTime": "19 de mar de 2017",
+    "value": [21],
+    "hasData": [true],
+    "formattedValue": ["21"]
+  },
+  {
+    "time": "1490486400",
+    "formattedTime": "26 de mar – 1 de abr de 2017",
+    "formattedAxisTime": "26 de mar de 2017",
+    "value": [31],
+    "hasData": [true],
+    "formattedValue": ["31"]
+  },
+  {
+    "time": "1491091200",
+    "formattedTime": "2 – 8 de abr de 2017",
+    "formattedAxisTime": "2 de abr de 2017",
+    "value": [31],
+    "hasData": [true],
+    "formattedValue": ["31"]
+  },
+  {
+    "time": "1491696000",
+    "formattedTime": "9 – 15 de abr de 2017",
+    "formattedAxisTime": "9 de abr de 2017",
+    "value": [39],
+    "hasData": [true],
+    "formattedValue": ["39"]
+  },
+  {
+    "time": "1492300800",
+    "formattedTime": "16 – 22 de abr de 2017",
+    "formattedAxisTime": "16 de abr de 2017",
+    "value": [31],
+    "hasData": [true],
+    "formattedValue": ["31"]
+  },
+  {
+    "time": "1492905600",
+    "formattedTime": "23 – 29 de abr de 2017",
+    "formattedAxisTime": "23 de abr de 2017",
+    "value": [30],
+    "hasData": [true],
+    "formattedValue": ["30"]
+  },
+  {
+    "time": "1493510400",
+    "formattedTime": "30 de abr – 6 de mai de 2017",
+    "formattedAxisTime": "30 de abr de 2017",
+    "value": [25],
+    "hasData": [true],
+    "formattedValue": ["25"]
+  },
+  {
+    "time": "1494115200",
+    "formattedTime": "7 – 13 de mai de 2017",
+    "formattedAxisTime": "7 de mai de 2017",
+    "value": [32],
+    "hasData": [true],
+    "formattedValue": ["32"]
+  },
+  {
+    "time": "1494720000",
+    "formattedTime": "14 – 20 de mai de 2017",
+    "formattedAxisTime": "14 de mai de 2017",
+    "value": [26],
+    "hasData": [true],
+    "formattedValue": ["26"]
+  },
+  {
+    "time": "1495324800",
+    "formattedTime": "21 – 27 de mai de 2017",
+    "formattedAxisTime": "21 de mai de 2017",
+    "value": [26],
+    "hasData": [true],
+    "formattedValue": ["26"]
+  },
+  {
+    "time": "1495929600",
+    "formattedTime": "28 de mai – 3 de jun de 2017",
+    "formattedAxisTime": "28 de mai de 2017",
+    "value": [30],
+    "hasData": [true],
+    "formattedValue": ["30"]
+  },
+  {
+    "time": "1496534400",
+    "formattedTime": "4 – 10 de jun de 2017",
+    "formattedAxisTime": "4 de jun de 2017",
+    "value": [23],
+    "hasData": [true],
+    "formattedValue": ["23"]
+  },
+  {
+    "time": "1497139200",
+    "formattedTime": "11 – 17 de jun de 2017",
+    "formattedAxisTime": "11 de jun de 2017",
+    "value": [31],
+    "hasData": [true],
+    "formattedValue": ["31"]
+  },
+  {
+    "time": "1497744000",
+    "formattedTime": "18 – 24 de jun de 2017",
+    "formattedAxisTime": "18 de jun de 2017",
+    "value": [15],
+    "hasData": [true],
+    "formattedValue": ["15"]
+  },
+  {
+    "time": "1498348800",
+    "formattedTime": "25 de jun – 1 de jul de 2017",
+    "formattedAxisTime": "25 de jun de 2017",
+    "value": [30],
+    "hasData": [true],
+    "formattedValue": ["30"]
+  },
+  {
+    "time": "1498953600",
+    "formattedTime": "2 – 8 de jul de 2017",
+    "formattedAxisTime": "2 de jul de 2017",
+    "value": [22],
+    "hasData": [true],
+    "formattedValue": ["22"]
+  },
+  {
+    "time": "1499558400",
+    "formattedTime": "9 – 15 de jul de 2017",
+    "formattedAxisTime": "9 de jul de 2017",
+    "value": [21],
+    "hasData": [true],
+    "formattedValue": ["21"]
+  },
+  {
+    "time": "1500163200",
+    "formattedTime": "16 – 22 de jul de 2017",
+    "formattedAxisTime": "16 de jul de 2017",
+    "value": [17],
+    "hasData": [true],
+    "formattedValue": ["17"]
+  },
+  {
+    "time": "1500768000",
+    "formattedTime": "23 – 29 de jul de 2017",
+    "formattedAxisTime": "23 de jul de 2017",
+    "value": [25],
+    "hasData": [true],
+    "formattedValue": ["25"]
+  },
+  {
+    "time": "1501372800",
+    "formattedTime": "30 de jul – 5 de ago de 2017",
+    "formattedAxisTime": "30 de jul de 2017",
+    "value": [20],
+    "hasData": [true],
+    "formattedValue": ["20"]
+  },
+  {
+    "time": "1501977600",
+    "formattedTime": "6 – 12 de ago de 2017",
+    "formattedAxisTime": "6 de ago de 2017",
+    "value": [26],
+    "hasData": [true],
+    "formattedValue": ["26"]
+  },
+  {
+    "time": "1502582400",
+    "formattedTime": "13 – 19 de ago de 2017",
+    "formattedAxisTime": "13 de ago de 2017",
+    "value": [24],
+    "hasData": [true],
+    "formattedValue": ["24"]
+  },
+  {
+    "time": "1503187200",
+    "formattedTime": "20 – 26 de ago de 2017",
+    "formattedAxisTime": "20 de ago de 2017",
+    "value": [27],
+    "hasData": [true],
+    "formattedValue": ["27"]
+  },
+  {
+    "time": "1503792000",
+    "formattedTime": "27 de ago – 2 de set de 2017",
+    "formattedAxisTime": "27 de ago de 2017",
+    "value": [39],
+    "hasData": [true],
+    "formattedValue": ["39"]
+  },
+  {
+    "time": "1504396800",
+    "formattedTime": "3 – 9 de set de 2017",
+    "formattedAxisTime": "3 de set de 2017",
+    "value": [33],
+    "hasData": [true],
+    "formattedValue": ["33"]
+  },
+  {
+    "time": "1505001600",
+    "formattedTime": "10 – 16 de set de 2017",
+    "formattedAxisTime": "10 de set de 2017",
+    "value": [34],
+    "hasData": [true],
+    "formattedValue": ["34"]
+  },
+  {
+    "time": "1505606400",
+    "formattedTime": "17 – 23 de set de 2017",
+    "formattedAxisTime": "17 de set de 2017",
+    "value": [37],
+    "hasData": [true],
+    "formattedValue": ["37"]
+  },
+  {
+    "time": "1506211200",
+    "formattedTime": "24 – 30 de set de 2017",
+    "formattedAxisTime": "24 de set de 2017",
+    "value": [26],
+    "hasData": [true],
+    "formattedValue": ["26"]
+  },
+  {
+    "time": "1506816000",
+    "formattedTime": "1 – 7 de out de 2017",
+    "formattedAxisTime": "1 de out de 2017",
+    "value": [35],
+    "hasData": [true],
+    "formattedValue": ["35"]
+  },
+  {
+    "time": "1507420800",
+    "formattedTime": "8 – 14 de out de 2017",
+    "formattedAxisTime": "8 de out de 2017",
+    "value": [22],
+    "hasData": [true],
+    "formattedValue": ["22"]
+  },
+  {
+    "time": "1508025600",
+    "formattedTime": "15 – 21 de out de 2017",
+    "formattedAxisTime": "15 de out de 2017",
+    "value": [33],
+    "hasData": [true],
+    "formattedValue": ["33"]
+  },
+  {
+    "time": "1508630400",
+    "formattedTime": "22 – 28 de out de 2017",
+    "formattedAxisTime": "22 de out de 2017",
+    "value": [22],
+    "hasData": [true],
+    "formattedValue": ["22"]
+  },
+  {
+    "time": "1509235200",
+    "formattedTime": "29 de out – 4 de nov de 2017",
+    "formattedAxisTime": "29 de out de 2017",
+    "value": [23],
+    "hasData": [true],
+    "formattedValue": ["23"]
+  },
+  {
+    "time": "1509840000",
+    "formattedTime": "5 – 11 de nov de 2017",
+    "formattedAxisTime": "5 de nov de 2017",
+    "value": [27],
+    "hasData": [true],
+    "formattedValue": ["27"]
+  },
+  {
+    "time": "1510444800",
+    "formattedTime": "12 – 18 de nov de 2017",
+    "formattedAxisTime": "12 de nov de 2017",
+    "value": [23],
+    "hasData": [true],
+    "formattedValue": ["23"]
+  },
+  {
+    "time": "1511049600",
+    "formattedTime": "19 – 25 de nov de 2017",
+    "formattedAxisTime": "19 de nov de 2017",
+    "value": [22],
+    "hasData": [true],
+    "formattedValue": ["22"]
+  },
+  {
+    "time": "1511654400",
+    "formattedTime": "26 de nov – 2 de dez de 2017",
+    "formattedAxisTime": "26 de nov de 2017",
+    "value": [60],
+    "hasData": [true],
+    "formattedValue": ["60"]
+  },
+  {
+    "time": "1512259200",
+    "formattedTime": "3 – 9 de dez de 2017",
+    "formattedAxisTime": "3 de dez de 2017",
+    "value": [28],
+    "hasData": [true],
+    "formattedValue": ["28"]
+  },
+  {
+    "time": "1512864000",
+    "formattedTime": "10 – 16 de dez de 2017",
+    "formattedAxisTime": "10 de dez de 2017",
+    "value": [42],
+    "hasData": [true],
+    "formattedValue": ["42"]
+  },
+  {
+    "time": "1513468800",
+    "formattedTime": "17 – 23 de dez de 2017",
+    "formattedAxisTime": "17 de dez de 2017",
+    "value": [19],
+    "hasData": [true],
+    "formattedValue": ["19"]
+  },
+  {
+    "time": "1514073600",
+    "formattedTime": "24 – 30 de dez de 2017",
+    "formattedAxisTime": "24 de dez de 2017",
+    "value": [34],
+    "hasData": [true],
+    "formattedValue": ["34"]
+  },
+  {
+    "time": "1514678400",
+    "formattedTime": "31 de dez de 2017 – 6 de jan de 2018",
+    "formattedAxisTime": "31 de dez de 2017",
+    "value": [30],
+    "hasData": [true],
+    "formattedValue": ["30"]
+  },
+  {
+    "time": "1515283200",
+    "formattedTime": "7 – 13 de jan de 2018",
+    "formattedAxisTime": "7 de jan de 2018",
+    "value": [22],
+    "hasData": [true],
+    "formattedValue": ["22"]
+  },
+  {
+    "time": "1515888000",
+    "formattedTime": "14 – 20 de jan de 2018",
+    "formattedAxisTime": "14 de jan de 2018",
+    "value": [35],
+    "hasData": [true],
+    "formattedValue": ["35"]
+  },
+  {
+    "time": "1516492800",
+    "formattedTime": "21 – 27 de jan de 2018",
+    "formattedAxisTime": "21 de jan de 2018",
+    "value": [35],
+    "hasData": [true],
+    "formattedValue": ["35"]
+  },
+  {
+    "time": "1517097600",
+    "formattedTime": "28 de jan – 3 de fev de 2018",
+    "formattedAxisTime": "28 de jan de 2018",
+    "value": [26],
+    "hasData": [true],
+    "formattedValue": ["26"]
+  },
+  {
+    "time": "1517702400",
+    "formattedTime": "4 – 10 de fev de 2018",
+    "formattedAxisTime": "4 de fev de 2018",
+    "value": [25],
+    "hasData": [true],
+    "formattedValue": ["25"]
+  },
+  {
+    "time": "1518307200",
+    "formattedTime": "11 – 17 de fev de 2018",
+    "formattedAxisTime": "11 de fev de 2018",
+    "value": [44],
+    "hasData": [true],
+    "formattedValue": ["44"]
+  },
+  {
+    "time": "1518912000",
+    "formattedTime": "18 – 24 de fev de 2018",
+    "formattedAxisTime": "18 de fev de 2018",
+    "value": [47],
+    "hasData": [true],
+    "formattedValue": ["47"]
+  },
+  {
+    "time": "1519516800",
+    "formattedTime": "25 de fev – 3 de mar de 2018",
+    "formattedAxisTime": "25 de fev de 2018",
+    "value": [26],
+    "hasData": [true],
+    "formattedValue": ["26"]
+  },
+  {
+    "time": "1520121600",
+    "formattedTime": "4 – 10 de mar de 2018",
+    "formattedAxisTime": "4 de mar de 2018",
+    "value": [26],
+    "hasData": [true],
+    "formattedValue": ["26"]
+  },
+  {
+    "time": "1520726400",
+    "formattedTime": "11 – 17 de mar de 2018",
+    "formattedAxisTime": "11 de mar de 2018",
+    "value": [35],
+    "hasData": [true],
+    "formattedValue": ["35"]
+  },
+  {
+    "time": "1521331200",
+    "formattedTime": "18 – 24 de mar de 2018",
+    "formattedAxisTime": "18 de mar de 2018",
+    "value": [48],
+    "hasData": [true],
+    "formattedValue": ["48"]
+  },
+  {
+    "time": "1521936000",
+    "formattedTime": "25 – 31 de mar de 2018",
+    "formattedAxisTime": "25 de mar de 2018",
+    "value": [29],
+    "hasData": [true],
+    "formattedValue": ["29"]
+  },
+  {
+    "time": "1522540800",
+    "formattedTime": "1 – 7 de abr de 2018",
+    "formattedAxisTime": "1 de abr de 2018",
+    "value": [29],
+    "hasData": [true],
+    "formattedValue": ["29"]
+  },
+  {
+    "time": "1523145600",
+    "formattedTime": "8 – 14 de abr de 2018",
+    "formattedAxisTime": "8 de abr de 2018",
+    "value": [40],
+    "hasData": [true],
+    "formattedValue": ["40"]
+  },
+  {
+    "time": "1523750400",
+    "formattedTime": "15 – 21 de abr de 2018",
+    "formattedAxisTime": "15 de abr de 2018",
+    "value": [29],
+    "hasData": [true],
+    "formattedValue": ["29"]
+  },
+  {
+    "time": "1524355200",
+    "formattedTime": "22 – 28 de abr de 2018",
+    "formattedAxisTime": "22 de abr de 2018",
+    "value": [35],
+    "hasData": [true],
+    "formattedValue": ["35"]
+  },
+  {
+    "time": "1524960000",
+    "formattedTime": "29 de abr – 5 de mai de 2018",
+    "formattedAxisTime": "29 de abr de 2018",
+    "value": [40],
+    "hasData": [true],
+    "formattedValue": ["40"]
+  },
+  {
+    "time": "1525564800",
+    "formattedTime": "6 – 12 de mai de 2018",
+    "formattedAxisTime": "6 de mai de 2018",
+    "value": [30],
+    "hasData": [true],
+    "formattedValue": ["30"]
+  },
+  {
+    "time": "1526169600",
+    "formattedTime": "13 – 19 de mai de 2018",
+    "formattedAxisTime": "13 de mai de 2018",
+    "value": [37],
+    "hasData": [true],
+    "formattedValue": ["37"]
+  },
+  {
+    "time": "1526774400",
+    "formattedTime": "20 – 26 de mai de 2018",
+    "formattedAxisTime": "20 de mai de 2018",
+    "value": [42],
+    "hasData": [true],
+    "formattedValue": ["42"]
+  },
+  {
+    "time": "1527379200",
+    "formattedTime": "27 de mai – 2 de jun de 2018",
+    "formattedAxisTime": "27 de mai de 2018",
+    "value": [19],
+    "hasData": [true],
+    "formattedValue": ["19"]
+  },
+  {
+    "time": "1527984000",
+    "formattedTime": "3 – 9 de jun de 2018",
+    "formattedAxisTime": "3 de jun de 2018",
+    "value": [85],
+    "hasData": [true],
+    "formattedValue": ["85"]
+  },
+  {
+    "time": "1528588800",
+    "formattedTime": "10 – 16 de jun de 2018",
+    "formattedAxisTime": "10 de jun de 2018",
+    "value": [65],
+    "hasData": [true],
+    "formattedValue": ["65"]
+  },
+  {
+    "time": "1529193600",
+    "formattedTime": "17 – 23 de jun de 2018",
+    "formattedAxisTime": "17 de jun de 2018",
+    "value": [46],
+    "hasData": [true],
+    "formattedValue": ["46"]
+  },
+  {
+    "time": "1529798400",
+    "formattedTime": "24 – 30 de jun de 2018",
+    "formattedAxisTime": "24 de jun de 2018",
+    "value": [46],
+    "hasData": [true],
+    "formattedValue": ["46"]
+  },
+  {
+    "time": "1530403200",
+    "formattedTime": "1 – 7 de jul de 2018",
+    "formattedAxisTime": "1 de jul de 2018",
+    "value": [50],
+    "hasData": [true],
+    "formattedValue": ["50"]
+  },
+  {
+    "time": "1531008000",
+    "formattedTime": "8 – 14 de jul de 2018",
+    "formattedAxisTime": "8 de jul de 2018",
+    "value": [41],
+    "hasData": [true],
+    "formattedValue": ["41"]
+  },
+  {
+    "time": "1531612800",
+    "formattedTime": "15 – 21 de jul de 2018",
+    "formattedAxisTime": "15 de jul de 2018",
+    "value": [58],
+    "hasData": [true],
+    "formattedValue": ["58"]
+  },
+  {
+    "time": "1532217600",
+    "formattedTime": "22 – 28 de jul de 2018",
+    "formattedAxisTime": "22 de jul de 2018",
+    "value": [100],
+    "hasData": [true],
+    "formattedValue": ["100"]
+  },
+  {
+    "time": "1532822400",
+    "formattedTime": "29 de jul – 4 de ago de 2018",
+    "formattedAxisTime": "29 de jul de 2018",
+    "value": [73],
+    "hasData": [true],
+    "formattedValue": ["73"]
+  },
+  {
+    "time": "1533427200",
+    "formattedTime": "5 – 11 de ago de 2018",
+    "formattedAxisTime": "5 de ago de 2018",
+    "value": [82],
+    "hasData": [true],
+    "formattedValue": ["82"]
+  },
+  {
+    "time": "1534032000",
+    "formattedTime": "12 – 18 de ago de 2018",
+    "formattedAxisTime": "12 de ago de 2018",
+    "value": [64],
+    "hasData": [true],
+    "formattedValue": ["64"]
+  },
+  {
+    "time": "1534636800",
+    "formattedTime": "19 – 25 de ago de 2018",
+    "formattedAxisTime": "19 de ago de 2018",
+    "value": [75],
+    "hasData": [true],
+    "formattedValue": ["75"]
+  },
+  {
+    "time": "1535241600",
+    "formattedTime": "26 de ago – 1 de set de 2018",
+    "formattedAxisTime": "26 de ago de 2018",
+    "value": [63],
+    "hasData": [true],
+    "formattedValue": ["63"]
+  },
+  {
+    "time": "1535846400",
+    "formattedTime": "2 – 8 de set de 2018",
+    "formattedAxisTime": "2 de set de 2018",
+    "value": [40],
+    "hasData": [true],
+    "formattedValue": ["40"]
+  },
+  {
+    "time": "1536451200",
+    "formattedTime": "9 – 15 de set de 2018",
+    "formattedAxisTime": "9 de set de 2018",
+    "value": [45],
+    "hasData": [true],
+    "formattedValue": ["45"]
+  },
+  {
+    "time": "1537056000",
+    "formattedTime": "16 – 22 de set de 2018",
+    "formattedAxisTime": "16 de set de 2018",
+    "value": [38],
+    "hasData": [true],
+    "formattedValue": ["38"]
+  },
+  {
+    "time": "1537660800",
+    "formattedTime": "23 – 29 de set de 2018",
+    "formattedAxisTime": "23 de set de 2018",
+    "value": [48],
+    "hasData": [true],
+    "formattedValue": ["48"]
+  },
+  {
+    "time": "1538265600",
+    "formattedTime": "30 de set – 6 de out de 2018",
+    "formattedAxisTime": "30 de set de 2018",
+    "value": [40],
+    "hasData": [true],
+    "formattedValue": ["40"]
+  },
+  {
+    "time": "1538870400",
+    "formattedTime": "7 – 13 de out de 2018",
+    "formattedAxisTime": "7 de out de 2018",
+    "value": [31],
+    "hasData": [true],
+    "formattedValue": ["31"]
+  },
+  {
+    "time": "1539475200",
+    "formattedTime": "14 – 20 de out de 2018",
+    "formattedAxisTime": "14 de out de 2018",
+    "value": [44],
+    "hasData": [true],
+    "formattedValue": ["44"]
+  },
+  {
+    "time": "1540080000",
+    "formattedTime": "21 – 27 de out de 2018",
+    "formattedAxisTime": "21 de out de 2018",
+    "value": [46],
+    "hasData": [true],
+    "formattedValue": ["46"]
+  },
+  {
+    "time": "1540684800",
+    "formattedTime": "28 de out – 3 de nov de 2018",
+    "formattedAxisTime": "28 de out de 2018",
+    "value": [35],
+    "hasData": [true],
+    "formattedValue": ["35"]
+  },
+  {
+    "time": "1541289600",
+    "formattedTime": "4 – 10 de nov de 2018",
+    "formattedAxisTime": "4 de nov de 2018",
+    "value": [47],
+    "hasData": [true],
+    "formattedValue": ["47"]
+  },
+  {
+    "time": "1541894400",
+    "formattedTime": "11 – 17 de nov de 2018",
+    "formattedAxisTime": "11 de nov de 2018",
+    "value": [31],
+    "hasData": [true],
+    "formattedValue": ["31"]
+  },
+  {
+    "time": "1542499200",
+    "formattedTime": "18 – 24 de nov de 2018",
+    "formattedAxisTime": "18 de nov de 2018",
+    "value": [50],
+    "hasData": [true],
+    "formattedValue": ["50"]
+  },
+  {
+    "time": "1543104000",
+    "formattedTime": "25 de nov – 1 de dez de 2018",
+    "formattedAxisTime": "25 de nov de 2018",
+    "value": [42],
+    "hasData": [true],
+    "formattedValue": ["42"]
+  },
+  {
+    "time": "1543708800",
+    "formattedTime": "2 – 8 de dez de 2018",
+    "formattedAxisTime": "2 de dez de 2018",
+    "value": [72],
+    "hasData": [true],
+    "formattedValue": ["72"]
+  },
+  {
+    "time": "1544313600",
+    "formattedTime": "9 – 15 de dez de 2018",
+    "formattedAxisTime": "9 de dez de 2018",
+    "value": [59],
+    "hasData": [true],
+    "formattedValue": ["59"]
+  },
+  {
+    "time": "1544918400",
+    "formattedTime": "16 – 22 de dez de 2018",
+    "formattedAxisTime": "16 de dez de 2018",
+    "value": [52],
+    "hasData": [true],
+    "formattedValue": ["52"]
+  },
+  {
+    "time": "1545523200",
+    "formattedTime": "23 – 29 de dez de 2018",
+    "formattedAxisTime": "23 de dez de 2018",
+    "value": [52],
+    "hasData": [true],
+    "formattedValue": ["52"]
+  },
+  {
+    "time": "1546128000",
+    "formattedTime": "30 de dez de 2018 – 5 de jan de 2019",
+    "formattedAxisTime": "30 de dez de 2018",
+    "value": [44],
+    "hasData": [true],
+    "formattedValue": ["44"]
+  },
+  {
+    "time": "1546732800",
+    "formattedTime": "6 – 12 de jan de 2019",
+    "formattedAxisTime": "6 de jan de 2019",
+    "value": [31],
+    "hasData": [true],
+    "formattedValue": ["31"]
+  },
+  {
+    "time": "1547337600",
+    "formattedTime": "13 – 19 de jan de 2019",
+    "formattedAxisTime": "13 de jan de 2019",
+    "value": [59],
+    "hasData": [true],
+    "formattedValue": ["59"]
+  },
+  {
+    "time": "1547942400",
+    "formattedTime": "20 – 26 de jan de 2019",
+    "formattedAxisTime": "20 de jan de 2019",
+    "value": [61],
+    "hasData": [true],
+    "formattedValue": ["61"]
+  },
+  {
+    "time": "1548547200",
+    "formattedTime": "27 de jan – 2 de fev de 2019",
+    "formattedAxisTime": "27 de jan de 2019",
+    "value": [51],
+    "hasData": [true],
+    "formattedValue": ["51"]
+  },
+  {
+    "time": "1549152000",
+    "formattedTime": "3 – 9 de fev de 2019",
+    "formattedAxisTime": "3 de fev de 2019",
+    "value": [28],
+    "hasData": [true],
+    "formattedValue": ["28"]
+  },
+  {
+    "time": "1549756800",
+    "formattedTime": "10 – 16 de fev de 2019",
+    "formattedAxisTime": "10 de fev de 2019",
+    "value": [48],
+    "hasData": [true],
+    "formattedValue": ["48"]
+  },
+  {
+    "time": "1550361600",
+    "formattedTime": "17 – 23 de fev de 2019",
+    "formattedAxisTime": "17 de fev de 2019",
+    "value": [44],
+    "hasData": [true],
+    "formattedValue": ["44"]
+  },
+  {
+    "time": "1550966400",
+    "formattedTime": "24 de fev – 2 de mar de 2019",
+    "formattedAxisTime": "24 de fev de 2019",
+    "value": [22],
+    "hasData": [true],
+    "formattedValue": ["22"]
+  },
+  {
+    "time": "1551571200",
+    "formattedTime": "3 – 9 de mar de 2019",
+    "formattedAxisTime": "3 de mar de 2019",
+    "value": [43],
+    "hasData": [true],
+    "formattedValue": ["43"]
+  },
+  {
+    "time": "1552176000",
+    "formattedTime": "10 – 16 de mar de 2019",
+    "formattedAxisTime": "10 de mar de 2019",
+    "value": [61],
+    "hasData": [true],
+    "formattedValue": ["61"]
+  },
+  {
+    "time": "1552780800",
+    "formattedTime": "17 – 23 de mar de 2019",
+    "formattedAxisTime": "17 de mar de 2019",
+    "value": [58],
+    "hasData": [true],
+    "formattedValue": ["58"]
+  },
+  {
+    "time": "1553385600",
+    "formattedTime": "24 – 30 de mar de 2019",
+    "formattedAxisTime": "24 de mar de 2019",
+    "value": [39],
+    "hasData": [true],
+    "formattedValue": ["39"]
+  },
+  {
+    "time": "1553990400",
+    "formattedTime": "31 de mar – 6 de abr de 2019",
+    "formattedAxisTime": "31 de mar de 2019",
+    "value": [44],
+    "hasData": [true],
+    "formattedValue": ["44"]
+  },
+  {
+    "time": "1554595200",
+    "formattedTime": "7 – 13 de abr de 2019",
+    "formattedAxisTime": "7 de abr de 2019",
+    "value": [36],
+    "hasData": [true],
+    "formattedValue": ["36"]
+  },
+  {
+    "time": "1555200000",
+    "formattedTime": "14 – 20 de abr de 2019",
+    "formattedAxisTime": "14 de abr de 2019",
+    "value": [28],
+    "hasData": [true],
+    "formattedValue": ["28"]
+  },
+  {
+    "time": "1555804800",
+    "formattedTime": "21 – 27 de abr de 2019",
+    "formattedAxisTime": "21 de abr de 2019",
+    "value": [43],
+    "hasData": [true],
+    "formattedValue": ["43"]
+  },
+  {
+    "time": "1556409600",
+    "formattedTime": "28 de abr – 4 de mai de 2019",
+    "formattedAxisTime": "28 de abr de 2019",
+    "value": [40],
+    "hasData": [true],
+    "formattedValue": ["40"]
+  },
+  {
+    "time": "1557014400",
+    "formattedTime": "5 – 11 de mai de 2019",
+    "formattedAxisTime": "5 de mai de 2019",
+    "value": [40],
+    "hasData": [true],
+    "formattedValue": ["40"]
+  },
+  {
+    "time": "1557619200",
+    "formattedTime": "12 – 18 de mai de 2019",
+    "formattedAxisTime": "12 de mai de 2019",
+    "value": [36],
+    "hasData": [true],
+    "formattedValue": ["36"]
+  },
+  {
+    "time": "1558224000",
+    "formattedTime": "19 – 25 de mai de 2019",
+    "formattedAxisTime": "19 de mai de 2019",
+    "value": [44],
+    "hasData": [true],
+    "formattedValue": ["44"]
+  },
+  {
+    "time": "1558828800",
+    "formattedTime": "26 de mai – 1 de jun de 2019",
+    "formattedAxisTime": "26 de mai de 2019",
+    "value": [49],
+    "hasData": [true],
+    "formattedValue": ["49"]
+  },
+  {
+    "time": "1559433600",
+    "formattedTime": "2 – 8 de jun de 2019",
+    "formattedAxisTime": "2 de jun de 2019",
+    "value": [32],
+    "hasData": [true],
+    "formattedValue": ["32"]
+  },
+  {
+    "time": "1560038400",
+    "formattedTime": "9 – 15 de jun de 2019",
+    "formattedAxisTime": "9 de jun de 2019",
+    "value": [36],
+    "hasData": [true],
+    "formattedValue": ["36"]
+  },
+  {
+    "time": "1560643200",
+    "formattedTime": "16 – 22 de jun de 2019",
+    "formattedAxisTime": "16 de jun de 2019",
+    "value": [47],
+    "hasData": [true],
+    "formattedValue": ["47"]
+  },
+  {
+    "time": "1561248000",
+    "formattedTime": "23 – 29 de jun de 2019",
+    "formattedAxisTime": "23 de jun de 2019",
+    "value": [50],
+    "hasData": [true],
+    "formattedValue": ["50"],
+    "isPartial": true
+  }
+]
