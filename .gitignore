@@ -9,3 +9,5 @@ travis-phantomjs
 .vscode/launch.json
 package-lock.json
 .env
+recife.json
+trend-toyota.json

@@ -31,9 +31,7 @@
   ],
   "dependencies": {
     "batch": "~0.6.1",
-    "bluebird": "^3.4.7",
     "chalk": "~2.4.2",
-    "cheerio": "~0.22.0",
     "debug": "~2.6.9",
     "dotenv": "^8.0.0",
     "enstore": "~1.0.1",
