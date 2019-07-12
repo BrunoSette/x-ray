@@ -11,3 +11,4 @@ package-lock.json
 .env
 recife.json
 trend-toyota.json
+results/
