@@ -1,6 +1,6 @@
 const Xray = require("x-ray");
-const pages = 1; //TODO Jogar esses dados em arquivo de Config
-const fileName = "./../results/eletronics-amazon.json"; //nome do arquivo para exportar 
+const pages = 1; //Config Number of Pages to Scrapp
+const fileName = "./../results/eletronics-amazon.json"; 
 
 
 const x = Xray({
