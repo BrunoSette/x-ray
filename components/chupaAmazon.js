@@ -1,9 +1,7 @@
 const Xray = require("x-ray");
 const pages = 1; //TODO Jogar esses dados em arquivo de Config
 const fileName = "./../results/eletronics-amazon.json"; //nome do arquivo para exportar 
-const brand = "";
-const model = "";
-const year = "";
+
 
 const x = Xray({
   filters: {
@@ -24,35 +22,17 @@ const x = Xray({
   }
 });
 
-const mountUrl = (brand = "", model = "", year = "") => {
-  let baseUrl =
-    "https://www.amazon.com/s?i=electronics-intl-ship&rh=n%3A%2116225009011&page=2";
-  if (brand !== "") {
-    baseUrl += `${brand}/`;
-    if (model !== "") {
-      baseUrl += `${model}/`;
-    }
-  }
 
-  if (year !== "") {
-    baseUrl += `${year}`;
-  }
-
-  return baseUrl;
-};
-
-
-  x(mountUrl(brand, model, year), ".s-result-item", [
+  x("https://www.amazon.com/s?i=electronics-intl-ship&rh=n%3A%2116225009011&page=2", ".s-result-item", [
     {
-      // id: "a@data-lurker_list_id",
       asin: "@data-asin",
       description: ".a-size-medium",
       link: "a@href",
       details: x('a@href', {
-        categoria: '.title@h4', //no
-        modelo: '.term', //no
-        data: '.text',
-        opcionais: 'ul .OLXad-features-list'
+        categoria: '.title@h4', //not working
+        modelo: '.term', //not working
+        data: '.text', //not working
+        opcionais: 'ul .OLXad-features-list' //not working
       }),
       image: "img@src",
       price: ".a-price-whole",
@@ -61,7 +41,7 @@ const mountUrl = (brand = "", model = "", year = "") => {
       votes: ".a-size-base"
       }
   ])
-    .paginate("li:a-last > a@href@href")
+    .paginate("li:a-last > a@href@href") //not working
     .limit(pages)
     .write(fileName);
       
