@@ -1,5 +1,5 @@
 const Xray = require("x-ray");
-const pages = 1; //Config Number of Pages to Scrapp
+const pages = 5; //Config Number of Pages to Scrapp
 const fileName = "./../results/eletronics-amazon.json"; 
 
 
@@ -23,17 +23,11 @@ const x = Xray({
 });
 
 
-  x("https://www.amazon.com/s?i=electronics-intl-ship&rh=n%3A%2116225009011&page=2", ".s-result-item", [
+  x("https://www.amazon.com/s?i=electronics-intl-ship&rh=n%3A%2116225009011&page=2", ".sg-col-inner", [
     {
       asin: "@data-asin",
       description: ".a-size-medium",
       link: "a@href",
-      details: x('a@href', {
-        categoria: '.title@h4', //not working
-        modelo: '.term', //not working
-        data: '.text', //not working
-        opcionais: 'ul .OLXad-features-list' //not working
-      }),
       image: "img@src",
       price: ".a-price-whole",
       cents: ".a-price-fraction",
@@ -41,7 +35,7 @@ const x = Xray({
       votes: ".a-size-base"
       }
   ])
-    .paginate("li:a-last > a@href@href") //not working
+    .paginate("li.a-last > a@href")
     .limit(pages)
     .write(fileName);
       
