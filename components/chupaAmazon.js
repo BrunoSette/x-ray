@@ -1,5 +1,5 @@
 const Xray = require("x-ray");
-const pages = 5; //Config Number of Pages to Scrapp
+const pages = 1; //Config Number of Pages to Scrapp at once
 const fileName = "./../results/eletronics-amazon.json"; 
 
 
@@ -23,11 +23,17 @@ const x = Xray({
 });
 
 
-  x("https://www.amazon.com/s?i=electronics-intl-ship&rh=n%3A%2116225009011&page=2", ".sg-col-inner", [
+  x("https://www.amazon.com/s?i=electronics-intl-ship&rh=n%3A%2116225009011&page=2", ".s-result-item", [
     {
       asin: "@data-asin",
       description: ".a-size-medium",
       link: "a@href",
+      details: x('a@href', {
+        bestsellersrank: '.a-color-secondary', //no
+        dimensions: '.a-size-base', //no
+        
+        releasedate: 'tbody > tr > tr > td.a-size-base'
+      }),
       image: "img@src",
       price: ".a-price-whole",
       cents: ".a-price-fraction",

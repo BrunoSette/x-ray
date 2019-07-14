@@ -50,7 +50,7 @@ const mountUrl = (brand = "", model = "", year = "") => {
       next_page: x('a[lurker=list_id]@href', {
         categoria: '.title@h4', //no
         modelo: 'a[class=link]@title', //no
-        data: '.text',
+        data: 'tbody > tr > tr > td.a-size-base',
         opcionais: 'ul .OLXad-features-list'
       }),
       image: "img@data-original",
