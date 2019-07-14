@@ -1,6 +1,6 @@
 const Xray = require("x-ray");
-const pages = 1; //TODO Jogar esses dados em arquivo de Config
-const fileName = "./../results/cars-olx.json"; //nome do arquivo para exportar
+const pages = 1; // TODO Jogar esses dados em arquivo de Config
+const fileName = "./../results/cars-olx.json"; // nome do arquivo para exportar
 const brand = "";
 const model = "";
 const year = "";
@@ -41,27 +41,25 @@ const mountUrl = (brand = "", model = "", year = "") => {
   return baseUrl;
 };
 
-
-  x(mountUrl(brand, model, year), ".item", [
-    {
-      id: "a@data-lurker_list_id",
-      description: "img@alt",
-      link: "a[lurker=list_id]@href",
-      next_page: x('a[lurker=list_id]@href', {
-        categoria: '.title@h4', //no
-        modelo: 'a[class=link]@title', //no
-        data: 'tbody > tr > tr > td.a-size-base',
-        opcionais: 'ul .OLXad-features-list'
-      }),
-      image: "img@data-original",
-      price: ".OLXad-list-price | slice:4",
-      details: ".detail-specific",
-      city: ".detail-region | slice:10,16",
-      bairro:
-        ".detail-region | slice:29,60 | trim:(\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t)"
-    }
-  ])
-    .paginate("a[next]@href")
-    .limit(pages)
-    .write(fileName);
-      
+x(mountUrl(brand, model, year), ".item", [
+  {
+    id: "a@data-lurker_list_id",
+    description: "img@alt",
+    link: "a[lurker=list_id]@href",
+    next_page: x("a[lurker=list_id]@href", {
+      categoria: ".title@h4", // no
+      modelo: "a[class=link]@title", // no
+      data: "tbody > tr > tr > td.a-size-base",
+      opcionais: "ul .OLXad-features-list"
+    }),
+    image: "img@data-original",
+    price: ".OLXad-list-price | slice:4",
+    details: ".detail-specific",
+    city: ".detail-region | slice:10,16",
+    bairro:
+      ".detail-region | slice:29,60 | trim:(\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t)"
+  }
+])
+  .paginate("a[next]@href")
+  .limit(pages)
+  .write(fileName);
