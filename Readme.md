@@ -4,6 +4,7 @@
 <a href="https://david-dm.org/BrunoSette/x-ray"><img src="https://david-dm.org/BrunoSette/x-ray.svg" alt="Dependency Status"></a>
 <a href="https://david-dm.org/BrunoSette/x-ray/?type=dev"><img src="https://david-dm.org/BrunoSette/x-ray/dev-status.svg" alt="devDependency Status"></a>
 [![Coverage Status](https://coveralls.io/repos/github/BrunoSette/x-ray/badge.svg?branch=master)](https://coveralls.io/github/BrunoSette/x-ray?branch=master)
+[![Build Status](https://travis-ci.org/BrunoSette/x-ray.svg?branch=master)](https://travis-ci.org/BrunoSette/x-ray)
 
 
 ## Installation
