@@ -1,13 +1,13 @@
-require("dotenv").config();
+require('dotenv').config()
 
-const shell = require("shelljs");
+const shell = require('shelljs')
 
 shell.exec(
-  "mongoimport --host " +
+  'mongoimport --host ' +
     process.env.DB_HOST +
-    " --ssl --username " +
+    ' --ssl --username ' +
     process.env.DB_USERNAME +
-    " --password " +
+    ' --password ' +
     process.env.DB_PASS +
-    " --authenticationDatabase admin --db serverless --collection notes --type json --file ./../results/cars-olx.json --jsonArray --mode merge"
-);
+    ' --authenticationDatabase admin --db serverless --collection notes --type json --file ./../results/cars-olx.json --jsonArray --mode merge'
+)

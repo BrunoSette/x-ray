@@ -1,7 +1,7 @@
-const replace = require("replace-in-file");
+const replace = require('replace-in-file')
 
 const options = {
-  files: "./../results/cars-olx.json",
+  files: './../results/cars-olx.json',
   from: [
     /Autom�tic/g,
     /autom�tic/g,
@@ -37,44 +37,44 @@ const options = {
     /Jos� /g
   ],
   to: [
-    "Automátic",
-    "automátic",
-    "AUTOMÁTIC",
-    "Câmbio",
-    "preço",
-    "Graças",
-    "Várzea",
-    "Imperdível",
-    "Impecável",
-    "completão",
-    "ótim",
-    "únic",
-    "ápido",
-    "ultimídia",
-    "água",
-    "Graças",
-    "Fábrica",
-    "água",
-    "Poço da Panela",
-    "ovíssimo",
-    "Estância",
-    "Torrões",
-    "Torreão",
-    "geração",
-    "Fundão",
-    "Estância",
-    "rátis ",
-    "gás",
-    "Gás",
-    "Jiquiá",
-    "São ",
-    "José "
+    'Automátic',
+    'automátic',
+    'AUTOMÁTIC',
+    'Câmbio',
+    'preço',
+    'Graças',
+    'Várzea',
+    'Imperdível',
+    'Impecável',
+    'completão',
+    'ótim',
+    'únic',
+    'ápido',
+    'ultimídia',
+    'água',
+    'Graças',
+    'Fábrica',
+    'água',
+    'Poço da Panela',
+    'ovíssimo',
+    'Estância',
+    'Torrões',
+    'Torreão',
+    'geração',
+    'Fundão',
+    'Estância',
+    'rátis ',
+    'gás',
+    'Gás',
+    'Jiquiá',
+    'São ',
+    'José '
   ]
-};
+}
 
 try {
-  const results = replace.sync(options);
-  console.log("Replacement results:", results);
+  const results = replace.sync(options)
+  console.log('Replacement results:', results)
 } catch (error) {
-  console.error("Error occurred:", error);
+  console.error('Error occurred:', error)
 }
