@@ -5,7 +5,7 @@
     "jest": true
   },
   "plugins": ["react", "jsx-a11y", "import"],
-  "extends": "google",
+  "extends": "standard",
   "rules": {
     "react/jsx-filename-extension": [
       "error",
