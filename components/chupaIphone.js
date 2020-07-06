@@ -1,8 +1,8 @@
 const Xray = require("x-ray");
-const pages = 1; // TODO Jogar esses dados em arquivo de Config
-const fileName = "./../results/cars-olx2.json"; // nome do arquivo para exportar
-const brand = "Nissan";
-const model = "2019";
+const pages = 10; // TODO Jogar esses dados em arquivo de Config
+const fileName = "./../results/iphone.json"; // nome do arquivo para exportar
+const brand = "Iphone";
+const model = "";
 const year = "";
 
 const x = Xray({
@@ -23,7 +23,7 @@ const x = Xray({
 
 const mountUrl = (brand = "", model = "", year = "") => {
   let baseUrl =
-    "https://pe.olx.com.br/grande-recife/recife/autos-e-pecas/carros-vans-e-utilitarios/";
+    "https://pe.olx.com.br/grande-recife/recife/celulares/iphone/usado/";
   if (brand !== "") {
     baseUrl += `${brand}/`;
     if (model !== "") {
@@ -41,22 +41,20 @@ const mountUrl = (brand = "", model = "", year = "") => {
 x(mountUrl(brand, model, year), ".ggOGTJ", [
   {
     id: "a@data-lurker_list_id",
-    description: "img@alt",
-    link: "a[lurker=list_id]@href",
+    description: ".deEIZJ",
+    link: ".iZLVht@href",
     next_page: x("a[lurker=list_id]@href", {
       categoria: ".title@h4", // no
       modelo: "a[class=link]@title", // no
       data: "tbody > tr > tr > td.a-size-base",
       opcionais: "ul .OLXad-features-list",
     }),
-    image: "img@data-original",
-    price: ".jqSHIm | slice:4",
+    image: "img@src",
+    price: ".jqSHIm ", // | slice:4
     details: ".detail-specific",
-    city: ".detail-region | slice:10,16",
-    bairro:
-      ".detail-region | slice:29,60 | trim:(\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t)",
+    city: ".hdwqVC",
   },
 ])
-  .paginate("a[next]@href")
+  .paginate(".iDkXSM@href")
   .limit(pages)
   .write(fileName);
