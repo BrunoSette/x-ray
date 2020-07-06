@@ -50,7 +50,7 @@ x(mountUrl(brand, model, year), ".ggOGTJ", [
       opcionais: "ul .OLXad-features-list",
     }),
     image: "img@src",
-    price: ".jqSHIm ", // | slice:4
+    price: ".jqSHIm | slice:3", // | slice:4
     details: ".detail-specific",
     city: ".hdwqVC",
   },
